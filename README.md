@@ -11,3 +11,5 @@ https://sigrok.org/wiki/Downloads
 https://zadig.akeo.ie/#
 
 https://learn.sparkfun.com/tutorials/using-the-usb-logic-analyzer-with-sigrok-pulseview
+
+https://www.saleae.com/pages/downloads
